@@ -36,6 +36,9 @@ I'm also interested in contributing to **Open Source** and learning new technolo
 - 🎮 [Gesture Controlled Runner](https://github.com/IsJn-227/Gesture_Controlled_Runner)  
   A Unity game you control with gestures using webcam input — combining computer vision and game development!
 
+- 🧠 [Resume Improver](https://github.com/IsJn-227/resume_improver)  
+  An AI-powered tool that analyzes your resume and a job description to suggest missing keywords, ideal sections to add them, and even generates smart bullet points using KeyBERT + spaCy.
+
 ---
 
 ## 🤝 Let's Connect
