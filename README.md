@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ishita!
 
 🎓 A passionate **Python and C++ developer** with experience in:
+- 🎮 **Unity Game Development**
 - ⚛️ **React.js** for frontend
 - 🌐 **Node.js** for backend APIs
-- 🎮 **Unity Game Development**
 - 🛠️ Full-stack Web Development
 
 I'm also interested in contributing to **Open Source** and learning new technologies!
