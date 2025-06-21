@@ -37,7 +37,8 @@ I'm also interested in contributing to **Open Source** and learning new technolo
   A Unity game you control with gestures using webcam input — combining computer vision and game development!
 
 - 🧠 [Resume Improver](https://github.com/IsJn-227/resume_improver)  
-  An AI-powered tool that analyzes your resume and a job description to suggest missing keywords, ideal sections to add them, and even generates smart bullet points using KeyBERT + spaCy.
+    AI-powered resume analyzer that compares your resume against job descriptions and gives smart, keyword-based suggestions.  
+  👉 [Try it Live](https://resumeimprover-ypeot5agzjyl68nudkmqkk.streamlit.app/)
 
 ---
 
