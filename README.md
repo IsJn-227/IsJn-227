@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ishita!
 
-🎯 A B.Tech student at IIT Delhi, aspiring **Software Engineer** with strong foundations in **Data Structures**, **AI/ML**, and **Full Stack Development**. Passionate about building intelligent systems and intuitive user experiences.
+🎯 B.Tech student at IIT Delhi with strong skills in Data Structures, Backend Development, Game Dev, and Computer Vision. Aspiring Software Engineer, passionate about building scalable systems and contributing to open source.
 
 ---
 
