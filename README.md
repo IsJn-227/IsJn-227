@@ -33,12 +33,17 @@ I'm also interested in contributing to **Open Source** and learning new technolo
 
 ## 🌟 Projects Showcase
 
-- 🎮 [Gesture Controlled Runner](https://github.com/IsJn-227/Gesture_Controlled_Runner)  
-  A Unity game you control with gestures using webcam input — combining computer vision and game development!
+- 💬 [Twitter Sentiment Analysis](https://github.com/IsJn-227/twitter-sentiment-analysis)  
+    Python tool for real-time tweet fetching via Twitter API, sentiment analysis with TextBlob, and visualizations using Matplotlib.
 
 - 🧠 [Resume Improver](https://github.com/IsJn-227/resume_improver)  
     AI-powered resume analyzer that compares your resume against job descriptions and gives smart, keyword-based suggestions.  
-  👉 [Try it Live](https://resumeimprover-ypeot5agzjyl68nudkmqkk.streamlit.app/)
+    👉 [Try it Live](https://resumeimprover-ypeot5agzjyl68nudkmqkk.streamlit.app/)
+  
+- 🎮 [Gesture Controlled Runner](https://github.com/IsJn-227/Gesture_Controlled_Runner)  
+    A Unity game you control with gestures using webcam input — combining computer vision and game development!
+
+
 
 ---
 
