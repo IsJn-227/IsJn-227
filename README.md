@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Ishita!
 
+🎯 A B.Tech student at IIT Delhi, aspiring **Software Engineer** with strong foundations in **Data Structures**, **AI/ML**, and **Full Stack Development**. Passionate about building intelligent systems and intuitive user experiences.
+
+---
+
+## 🧠 About Me
+
 🎓 A passionate **Python and C++ developer** with hands-on experience in:
 - 🧠 **AI & NLP tools** (OpenAI API, TextBlob)
 - 🎮 **Unity Game Development** with C# and gesture controls
@@ -8,20 +14,27 @@
 - 🌐 **Basic Web Development** with Streamlit and Flask
 - 🛠️ Familiar with Git, GitHub, and open-source collaboration
 
-
-I'm also interested in contributing to **Open Source** and learning new technologies!
+💡 Actively exploring opportunities in **Software Development**, **Tech Internships** and **Open Source Contributions**.  
+🤝 Open to collaboration, learning, and contributing to meaningful tech projects.
 
 ---
 
 ## 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)  
+
+**Web & Frameworks:**  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+
+**Others:**  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)  
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
@@ -53,7 +66,8 @@ I'm also interested in contributing to **Open Source** and learning new technolo
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ishita-jain-247isjn/)
-- 📧 Email: ishjain2712@gmail.com
+- 📧 [Email](mailto:ishjain2712@gmail.com)
+- 🧑‍💻 [GitHub](https://github.com/IsJn-227)
 
 ---
 
