@@ -40,6 +40,10 @@
 
 ## 🌟 Projects Showcase
 
+- 🪙 [Meme Coin Aggregator](https://github.com/IsJn-227/meme-coin-aggregator)
+  Real-time crypto data aggregator using **Node.js, Redis, Socket.IO, and REST APIs**, featuring live token updates, caching, and a full frontend dashboard.  
+  👉 [Try it live](https://meme-coin-aggregator-project.onrender.com/)
+
 - 💬 [Twitter Sentiment Analysis](https://github.com/IsJn-227/twitter-sentiment-analysis)  
     Python tool for real-time tweet fetching via Twitter API, sentiment analysis with TextBlob, and visualizations using Matplotlib.
 
