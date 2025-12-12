@@ -45,7 +45,7 @@
   👉 [Try it live](https://meme-coin-aggregator-project.onrender.com/)
 
 - 🪙 [Token  Trading Table](https://github.com/IsJn-227/token-trading-table)
-  Real-time crypto trading dashboard with **WebSocket price feeds, advanced token filters, and high-performance UI built using Next.js + TypeScript**
+  Real-time crypto trading dashboard with **WebSocket price feeds, advanced token filters, and high-performance UI built using Next.js + TypeScript**    
   👉 [Try it live](https://token-trading-table-65hg3gnyq-ishita-jains-projects-34655167.vercel.app/)
 
 - 🧠 [Resume Improver](https://github.com/IsJn-227/resume_improver)  
