@@ -1,20 +1,25 @@
 # 👋 Hi, I'm Ishita!
 
-🎯 B.Tech student at IIT Delhi with strong skills in Data Structures, Backend Development, Game Dev, and Computer Vision. Aspiring Software Engineer, passionate about building scalable systems and contributing to open source.
+🎯 B.Tech student at IIT Delhi with a strong focus on **Software Engineering, Backend Systems, and Full-Stack Development**.  
+I enjoy building **scalable, performance-focused, real-time systems**, and working close to **data and infrastructure layers**.
+
+Currently exploring **Software Engineering internships (Backend / Full-Stack focus) — Summer 2026**.
 
 ---
 
-## 🧠 About Me
+🧠 About Me
 
-🎓 A passionate **Python and C++ developer** with hands-on experience in:
-- 🧠 **AI & NLP tools** (OpenAI API, TextBlob)
-- 🎮 **Unity Game Development** with C# and gesture controls
-- 📷 **Computer Vision** using MediaPipe and OpenCV
-- 📊 **Data Analysis & Visualization** (Pandas, Matplotlib)
-- 🌐 **Basic Web Development** with Streamlit and Flask
-- 🛠️ Familiar with Git, GitHub, and open-source collaboration
+🎓 3rd-year B.Tech student at IIT Delhi with hands-on experience in **backend and full-stack development**, including a production internship at an **IIT Delhi–incubated startup**.
 
-💡 Actively exploring opportunities in **Software Development**, **Tech Internships** and **Open Source Contributions**.  
+🛠️ I have built and worked on:
+- ⚡ **Real-time backend systems** using WebSockets, Redis, and multi-API aggregation
+- 🗄️ **Data & query processing engines** (SQL-style execution, optimizers, join planning)
+- 🌐 **Scalable full-stack applications** using React, Next.js, TypeScript, and Node.js
+- 🤖 **AI-assisted tools** for automation and optimization (resume optimization, ATS analysis)
+
+🚀 I enjoy working on **performance-sensitive systems**, clean APIs, and projects that sit at the intersection of **software, data, and infrastructure**
+
+💡 Actively seeking **Software Engineering / Backend / Full-Stack internships (Summer 2026)**.        
 🤝 Open to collaboration, learning, and contributing to meaningful tech projects.
 
 ---
@@ -23,18 +28,36 @@
 
 🧠 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 🌐 **Web & Frameworks**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=flat)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=reactquery&logoColor=white&style=flat)
 
-🛠️ **Others**  
+🗄️ **Backend & Databases**  
+![REST](https://img.shields.io/badge/-REST_APIs-005571?style=flat)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=flat)
+
+⚙️ **Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
+🧪 **Prior / Exploratory Work**  
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
