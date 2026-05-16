@@ -75,6 +75,7 @@ Currently exploring **Software Engineering internships (Backend / Full-Stack foc
   End-to-end AI analytics platform with **13 ML modules** — demand forecasting, dynamic pricing, 
   semantic search, churn prediction built with **BigQuery ML, Python & scikit-learn**  
   📊 94% forecast accuracy | 60% efficiency ↑ | 25% cost reduction
+
   📁 [View on GitHub](https://github.com/IsJn-227/bigquery-ai-ecommerce)
   
 - 🪙 [Meme Coin Aggregator](https://github.com/IsJn-227/meme-coin-aggregator)
