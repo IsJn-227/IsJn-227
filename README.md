@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ishita!
 
 🎯 B.Tech student at IIT Delhi with a strong focus on **Software Engineering, Backend Systems, and Full-Stack Development**.  
-I enjoy building **scalable, performance-focused, real-time systems**, and working close to **data and infrastructure layers**.
+I enjoy building **scalable, performance-focused, real-time systems**, and working close to **data, ML pipelines, and infrastructure layers**.
 
 Currently exploring **Software Engineering internships (Backend / Full-Stack focus) — Summer 2026**.
 
@@ -15,7 +15,7 @@ Currently exploring **Software Engineering internships (Backend / Full-Stack foc
 - ⚡ **Real-time backend systems** using WebSockets, Redis, and multi-API aggregation
 - 🗄️ **Data & query processing engines** (SQL-style execution, optimizers, join planning)
 - 🌐 **Scalable full-stack applications** using React, Next.js, TypeScript, and Node.js
-- 🤖 **AI-assisted tools** for automation and optimization (resume optimization, ATS analysis)
+- 🤖 **ML/AI systems** — text classification (99.8% AUC), e-commerce intelligence (13 modules, 94% accuracy), NLP-based automation
 
 🚀 I enjoy working on **performance-sensitive systems**, clean APIs, and projects that sit at the intersection of **software, data, and infrastructure**
 
@@ -54,6 +54,14 @@ Currently exploring **Software Engineering internships (Backend / Full-Stack foc
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
+🤖 **ML & Data**  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+
 🧪 **Prior / Exploratory Work**  
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
@@ -63,23 +71,23 @@ Currently exploring **Software Engineering internships (Backend / Full-Stack foc
 
 ## 🌟 Projects Showcase
 
-- 🪙 [Meme Coin Aggregator](https://github.com/IsJn-227/meme-coin-aggregator)
-  Real-time crypto data aggregator using **Node.js, Redis, Socket.IO, and REST APIs**, featuring live token updates, caching, and a full frontend dashboard  
-  👉 [Try it live](https://meme-coin-aggregator-project.onrender.com/)
-  
 - 🛒 [BigQuery AI E-Commerce Intelligence Platform](https://github.com/IsJn-227/bigquery-ai-ecommerce)
   End-to-end AI analytics platform with **13 ML modules** — demand forecasting, dynamic pricing, 
   semantic search, churn prediction built with **BigQuery ML, Python & scikit-learn**  
   📊 94% forecast accuracy | 60% efficiency ↑ | 25% cost reduction
+  
+- 🪙 [Meme Coin Aggregator](https://github.com/IsJn-227/meme-coin-aggregator)
+  Real-time crypto data aggregator using **Node.js, Redis, Socket.IO, and REST APIs**, featuring live token updates, caching, and a full frontend dashboard  
+  👉 [Try it live](https://meme-coin-aggregator-project.onrender.com/)
 
-  - 🧠 [Resume Improver](https://github.com/IsJn-227/resume_improver)  
+- 🧠 [Resume Improver](https://github.com/IsJn-227/resume_improver)  
   AI-powered resume analyzer that compares your resume against job descriptions and gives smart, keyword-based suggestions.  
   👉 [Try it Live](https://resumeimprover-ypeot5agzjyl68nudkmqkk.streamlit.app/)
 
-  - 🎮 [Gesture Controlled Runner](https://github.com/IsJn-227/Gesture_Controlled_Runner)  
+- 🎮 [Gesture Controlled Runner](https://github.com/IsJn-227/Gesture_Controlled_Runner)  
   A Unity game you control with gestures using webcam input — combining computer vision and game development!
   
-- 🪙 [Token  Trading Table](https://github.com/IsJn-227/token-trading-table)
+- 🪙 [Token Trading Table](https://github.com/IsJn-227/token-trading-table)
   Real-time crypto trading dashboard with **WebSocket price feeds, advanced token filters, and high-performance UI built using Next.js + TypeScript**    
   👉 [Try it live](https://token-trading-table-65hg3gnyq-ishita-jains-projects-34655167.vercel.app/)
 
