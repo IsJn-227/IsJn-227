@@ -66,20 +66,25 @@ Currently exploring **Software Engineering internships (Backend / Full-Stack foc
 - 🪙 [Meme Coin Aggregator](https://github.com/IsJn-227/meme-coin-aggregator)
   Real-time crypto data aggregator using **Node.js, Redis, Socket.IO, and REST APIs**, featuring live token updates, caching, and a full frontend dashboard  
   👉 [Try it live](https://meme-coin-aggregator-project.onrender.com/)
+  
+- 🛒 [BigQuery AI E-Commerce Intelligence Platform](https://github.com/IsJn-227/bigquery-ai-ecommerce)
+  End-to-end AI analytics platform with **13 ML modules** — demand forecasting, dynamic pricing, 
+  semantic search, churn prediction built with **BigQuery ML, Python & scikit-learn**  
+  📊 94% forecast accuracy | 60% efficiency ↑ | 25% cost reduction
 
+  - 🧠 [Resume Improver](https://github.com/IsJn-227/resume_improver)  
+  AI-powered resume analyzer that compares your resume against job descriptions and gives smart, keyword-based suggestions.  
+  👉 [Try it Live](https://resumeimprover-ypeot5agzjyl68nudkmqkk.streamlit.app/)
+
+  - 🎮 [Gesture Controlled Runner](https://github.com/IsJn-227/Gesture_Controlled_Runner)  
+  A Unity game you control with gestures using webcam input — combining computer vision and game development!
+  
 - 🪙 [Token  Trading Table](https://github.com/IsJn-227/token-trading-table)
   Real-time crypto trading dashboard with **WebSocket price feeds, advanced token filters, and high-performance UI built using Next.js + TypeScript**    
   👉 [Try it live](https://token-trading-table-65hg3gnyq-ishita-jains-projects-34655167.vercel.app/)
 
-- 🧠 [Resume Improver](https://github.com/IsJn-227/resume_improver)  
-  AI-powered resume analyzer that compares your resume against job descriptions and gives smart, keyword-based suggestions.  
-  👉 [Try it Live](https://resumeimprover-ypeot5agzjyl68nudkmqkk.streamlit.app/)
-
 - 💬 [Twitter Sentiment Analysis](https://github.com/IsJn-227/twitter-sentiment-analysis)  
   Python tool for real-time tweet fetching via Twitter API, sentiment analysis with TextBlob, and visualizations using Matplotlib
-  
-- 🎮 [Gesture Controlled Runner](https://github.com/IsJn-227/Gesture_Controlled_Runner)  
-  A Unity game you control with gestures using webcam input — combining computer vision and game development!
 
 ---
 
